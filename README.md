@@ -55,3 +55,11 @@ $ npm run generate
 ```
 
 关于nuxt教程还是推荐看官方文档，写的比较详细 [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
+#### 项目截图
+
+![图片](./screenshots/1.png)
+
+![图片](./screenshots/2.png)
+
+![图片](./screenshots/3.png) ![图片](./screenshots/4.png)

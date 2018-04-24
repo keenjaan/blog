@@ -9,5 +9,5 @@ let options = {
   }
 }
 
-options.baseURL = (process.env.NODE_ENV === 'development') ? 'http://www.keenjaan.cn/api' : 'http://www.keenjaan.cn/api'
+options.baseURL = (process.env.NODE_ENV === 'development') ? 'http://localhost:3089/api' : 'http://localhost:3089/api'
 export default axios.create(options)
