@@ -12,6 +12,7 @@
         <nuxt-link class="to-home-page" to="/">首页</nuxt-link>
         <div class="container-left-link-border">
           <a class="container-left-link" href="https://github.com/keenjaan" target="_blank">github主页</a>
+          <a class="container-left-link" href="https://juejin.im/user/584aba29128fe1006c7d16c5" target="_blank">掘金主页</a>
           <a class="container-left-link" href="https://www.jianshu.com/u/4f7bfde3a60d" target="_blank">简书主页</a>
         </div>
       </div>
@@ -31,9 +32,12 @@
             <p class="container-mobile-link">
               <a class="container-mobile-link-item" href="https://github.com/keenjaan" target="_blank">github主页</a>
             </p>
-            <p class="container-mobile-link-bottom">
-              <a class="container-mobile-link-item" href="https://www.jianshu.com/u/4f7bfde3a60d" target="_blank">简书主页</a>
+            <p class="container-mobile-link">
+              <a class="container-mobile-link-item" href="https://juejin.im/user/584aba29128fe1006c7d16c5" target="_blank">掘金主页</a>
             </p>
+            <!-- <p class="container-mobile-link-bottom">
+              <a class="container-mobile-link-item" href="https://www.jianshu.com/u/4f7bfde3a60d" target="_blank">简书主页</a>
+            </p> -->
           </div>
         </div>
       </div>
